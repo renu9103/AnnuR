@@ -1,0 +1,43 @@
+.mainRow{
+    margin: 73px 0 0 0 !important;
+}
+
+.proImgList{
+    display: flex;
+}
+
+.proImg{
+    list-style: none;
+    padding: 0 5px;
+}
+
+.proImg > img{
+    width: 25px;
+    height: 25px;
+}
+.form-signin{
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    
+}
+
+.nav-mar
+{
+    margin: -17px -54px 0 -24px !important;
+    background-color: blue !important;
+}
+
+.sidebar{
+    margin: -17px 0px 0px -30px !important;
+}
+
+.sidecollaps{
+    top: 110px !important;
+    width: 272px !important;
+}
+
+.btndropdown:hover {
+    background-color: blue !important; /* Change the background color on hover */
+    color: #fff !important; /* Change the text color on hover */
+  }
